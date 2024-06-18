@@ -1,4 +1,4 @@
-CREATE DATABASE homework_database_006;
+CREATE DATABASE homework_sql;
 use homework_database_006;
 
 -- 1.	Создайте функцию, которая принимает кол-во сек и форматирует их в кол-во дней, часов, минут и секунд.
